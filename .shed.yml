@@ -1,0 +1,11 @@
+name: dummy_tool
+owner: dummy
+description: |
+  The Dummy Tool
+homepage_url: https://github.com/michauhl/dummy-wrapper-galaxy
+long_description:
+  The Dummy Tool
+remote_repository_url: https://github.com/bgruening/galaxytools/tree/master/tools/dummy-wrapper-galaxy
+type: unrestricted
+categories:
+- dummies
